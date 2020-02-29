@@ -40,4 +40,3 @@
 - Kalman filters
 - Futures
 - Mean reversion
-- 
